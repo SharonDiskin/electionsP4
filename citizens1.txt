@@ -1,0 +1,31 @@
+6
+class Contestant Rubi Rivlin
+15\12\1955
+205379993
+1
+1
+class Contestant Yair Lapid
+27\2\1975
+301742599
+1
+1
+class Contestant Yonit Levi
+23\1\1980
+204323299
+1
+0
+class Contestant Dani Kushmaru
+1\7\1957
+924593221
+1
+0
+class Contestant John Lenon
+6\6\1966
+316567262
+2
+0
+class Contestant Harry Potter
+6\1\1970
+311550230
+2
+0
